@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.coal.eater.core.ModEntryPoint"
     ]
   },
   "mixins": [
